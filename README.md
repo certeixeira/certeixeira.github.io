@@ -1,1 +1,10 @@
-# certeixeira.github.io
+# Data Scientist
+
+### Educação
+Tecnólogo em Gestão da Tecnologia da Informação - Senac
+Pós Graduação....
+
+### Experiências
+Suporte Técnico Nivel 2 @ Delivery Direto (LWSA)
+
+### Projetos
