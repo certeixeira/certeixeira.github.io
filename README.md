@@ -62,5 +62,5 @@ Desempenhei o papel de Agente de Atendimento na Rappi, oferecendo suporte tanto 
 
 
 # Projetos
-- Projeto 1
-- Projeto 2
+- [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
+
