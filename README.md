@@ -1,7 +1,13 @@
 # Data Scientist
 
+[Linkedin](https://www.linkedin.com/in/carlos-teixeira-582790154/)
+[Perfil Tableu](https://public.tableau.com/app/profile/carlos.teixeira5407/vizzes)
+
 # Resumo
 Com uma formação em Gestão de Tecnologia da Informação e uma imersão atual na pós-graduação em Data Science, estou entusiasmado em buscar oportunidades na área de Ciência de Dados e campos relacionados. Este percurso acadêmico e profissional sólido me motiva a explorar novos horizontes, contribuindo com meu conhecimento técnico e comprometimento para o desenvolvimento inovador no campo da Ciência de Dados.
+
+# Projetos
+- [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
 
 # Formação Acadêmica
 
@@ -61,6 +67,5 @@ Profissional de Suporte Técnico N2 com expertise em Ciência de Dados. Especial
 Desempenhei o papel de Agente de Atendimento na Rappi, oferecendo suporte tanto aos clientes quanto aos entregadores parceiros. Além disso, liderei a criação de patrocínios para causas judiciais e colaboração com o Procon, destacando-me na gestão de questões complexas.
 
 
-# Projetos
-- [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
+
 
