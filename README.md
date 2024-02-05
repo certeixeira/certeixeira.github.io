@@ -1,6 +1,7 @@
 # Data Scientist
 
 [Linkedin](https://www.linkedin.com/in/carlos-teixeira-582790154/)
+
 [Perfil Tableu](https://public.tableau.com/app/profile/carlos.teixeira5407/vizzes)
 
 # Resumo
