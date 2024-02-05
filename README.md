@@ -5,10 +5,40 @@
 [Perfil Tableu](https://public.tableau.com/app/profile/carlos.teixeira5407/vizzes)
 
 # Resumo
-Com uma formação em Gestão de Tecnologia da Informação e uma imersão atual na pós-graduação em Data Science, estou entusiasmado em buscar oportunidades na área de Ciência de Dados e campos relacionados. Este percurso acadêmico e profissional sólido me motiva a explorar novos horizontes, contribuindo com meu conhecimento técnico e comprometimento para o desenvolvimento inovador no campo da Ciência de Dados.
+Olá!
+
+Sou um profissional de tecnologia com formação técnica em Gestão da Tecnologia da Informação e estou finalizando uma pós-graduação em Ciência de Dados (previsão de conclusão em fevereiro de 2024).
+
+Na Delivery Direto (Locaweb), atuei como Suporte Técnico N2, com foco em Ciência de Dados. Desenvolvi habilidades em JavaScript (Google Tag Manager), Python (Jupyter, Seaborn, Matplotlib, Pandas), e MySQL. Trabalhei na detecção e relato de bugs, manutenção e ajustes no Google Tag Manager, e manipulação de dados usando MySQL e Jupyter.
+
+Antes dessa experiência, trabalhei na Rappi como Agente de Atendimento, oferecendo suporte a clientes e entregadores. Liderança na criação de patrocínios e colaboração com o Procon foram aspectos destacados.
+
+Minha formação inclui gestão de projetos, governança de TI, segurança da informação, e análise de dados com ênfase em Business Intelligence.
+
+Estou em busca de oportunidades como Cientista de Dados ou Analista de Dados, ansioso para aplicar minha experiência e conhecimentos em prol da inovação e crescimento organizacional. Vamos conversar?
 
 # Projetos
 - [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
+
+# Experiência Profissional
+
+## Delivery Direto (Locaweb) / Suporte Técnico N2
+**Período:** Agosto de 2021 - Novembro de 2023  
+**Local:** São Paulo – SP
+
+Profissional de Suporte Técnico N2 com expertise em Ciência de Dados. Especializado em testes, detecção e reporte de bugs na plataforma, além de executar manutenção e ajustes nas tags do Google Tag Manager (GTM) utilizando JavaScript. Responsável pela manipulação de dados, realizando extração, tratamento e consultas no banco de dados MySQL e Jupyter.
+
+**Habilidades técnicas:**
+- JavaScript (Google Tag Manager)
+- Python (Jupyter, Seaborn, Matplotlib, Pandas)
+- MySQL (Extração, Tratamento, Consultas)
+
+## Rappi / Agente de Atendimento
+**Período:** Novembro de 2018 - Janeiro de 2020  
+**Local:** São Paulo – SP
+
+Desempenhei o papel de Agente de Atendimento na Rappi, oferecendo suporte tanto aos clientes quanto aos entregadores parceiros. Além disso, liderei a criação de patrocínios para causas judiciais e colaboração com o Procon, destacando-me na gestão de questões complexas.
+
 
 # Formação Acadêmica
 
@@ -46,27 +76,4 @@ Formação especializada em análise e interpretação de dados, proporcionando 
 - **Clusterização:** Introdução, análise, hierárquica, particional, baseada em densidade, avaliação de grupos, projetos, tópicos avançados.
 - **Regressão e Predição:** Regressão linear, logística, big data analytics, regressões Lasso e Ridge, árvores de regressão, treinamento, validação, testes, testes de hipóteses, SVM.
 - **Deep Learning:** Regressão logística, parâmetros de ajuste, funções não convexas, manipulação de Deep Nets, transferência de aprendizagem, reconhecimento de voz.
-
-
-# Experiência Profissional
-
-## Delivery Direto (Locaweb) / Suporte Técnico N2
-**Período:** Agosto de 2021 - Novembro de 2023  
-**Local:** São Paulo – SP
-
-Profissional de Suporte Técnico N2 com expertise em Ciência de Dados. Especializado em testes, detecção e reporte de bugs na plataforma, além de executar manutenção e ajustes nas tags do Google Tag Manager (GTM) utilizando JavaScript. Responsável pela manipulação de dados, realizando extração, tratamento e consultas no banco de dados MySQL e Jupyter.
-
-**Habilidades técnicas:**
-- JavaScript (Google Tag Manager)
-- Python (Jupyter, Seaborn, Matplotlib, Pandas)
-- MySQL (Extração, Tratamento, Consultas)
-
-## Rappi / Agente de Atendimento
-**Período:** Novembro de 2018 - Janeiro de 2020  
-**Local:** São Paulo – SP
-
-Desempenhei o papel de Agente de Atendimento na Rappi, oferecendo suporte tanto aos clientes quanto aos entregadores parceiros. Além disso, liderei a criação de patrocínios para causas judiciais e colaboração com o Procon, destacando-me na gestão de questões complexas.
-
-
-
 
