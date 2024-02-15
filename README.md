@@ -20,6 +20,14 @@ Estou em busca de oportunidades como Cientista de Dados ou Analista de Dados, an
 # Projetos
 - [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
 
+  
+- [Pesquisa Nacional por Amostra de Domicílios - 2015](https://github.com/certeixeira/estatistica_python_01/blob/main/An%C3%A1lise_Descritiva_Desafio.ipynb)
+
+Utilizando os conhecimentos adquiridos no curso [da Alura de Estatística com Python: frequências e medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas?preRequirementFrom=estatistica-probabilidade-e-amostragem) realize uma análise descritiva básica de um conjunto de dados retirados da Pesquisa Nacional por Amostra de Domicílios - 2015 do IBGE.
+  Vamos construir histogramas, calcular e avaliar medidas de tendência central, medidas separatrizes e de dispersão dos dados.
+
+  
+
 # Experiência Profissional
 
 ## Delivery Direto (Locaweb) / Suporte Técnico N2
