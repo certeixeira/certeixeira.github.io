@@ -9,7 +9,7 @@ Olá!
 
 Sou um profissional de tecnologia com formação técnica em Gestão da Tecnologia da Informação e estou finalizando uma pós-graduação em Ciência de Dados (previsão de conclusão em fevereiro de 2024).
 
-Na Delivery Direto (Locaweb), atuei como Suporte Técnico N2, com foco em Ciência de Dados. Desenvolvi habilidades em JavaScript (Google Tag Manager), Python (Jupyter, Seaborn, Matplotlib, Pandas), e MySQL. Trabalhei na detecção e relato de bugs, manutenção e ajustes no Google Tag Manager, e manipulação de dados usando MySQL e Jupyter.
+Na Delivery Direto (Locaweb), atuei como Suporte Técnico N2. Desenvolvi habilidades em JavaScript (Google Tag Manager), Python (Jupyter, Seaborn, Matplotlib, Pandas), e MySQL. Trabalhei na detecção e relato de bugs, manutenção e ajustes no Google Tag Manager, e manipulação de dados usando MySQL e Jupyter.
 
 Antes dessa experiência, trabalhei na Rappi como Agente de Atendimento, oferecendo suporte a clientes e entregadores. Liderança na criação de patrocínios e colaboração com o Procon foram aspectos destacados.
 
@@ -17,14 +17,18 @@ Minha formação inclui gestão de projetos, governança de TI, segurança da in
 
 Estou em busca de oportunidades como Cientista de Dados ou Analista de Dados, ansioso para aplicar minha experiência e conhecimentos em prol da inovação e crescimento organizacional. Vamos conversar?
 
-# Projetos
-- [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
+# Portfólio
 
-  
-- [Pesquisa Nacional por Amostra de Domicílios - 2015](https://github.com/certeixeira/estatistica_python_01/blob/main/An%C3%A1lise_Descritiva_Desafio.ipynb)
+## Análise de Dados
 
-Utilizando os conhecimentos adquiridos no curso [da Alura de Estatística com Python: frequências e medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas?preRequirementFrom=estatistica-probabilidade-e-amostragem) realize uma análise descritiva básica de um conjunto de dados retirados da Pesquisa Nacional por Amostra de Domicílios - 2015 do IBGE.
-  Vamos construir histogramas, calcular e avaliar medidas de tendência central, medidas separatrizes e de dispersão dos dados.
+### Maratona 50km e 50 milhas
+- **Descrição:** Realizei uma análise exploratória de dados (EDA) em um conjunto de dados da Maratona 50km e 50 milhas. Utilizei técnicas de ciência de dados, como visualização de dados, análise estatística descritiva e segmentação de dados, para compreender padrões e insights. Além disso, empreguei gráficos interativos para uma exploração mais detalhada. Essa análise proporcionou uma compreensão abrangente dos dados, permitindo identificar correlações, distribuições e tendências importantes, essenciais para futuras análises e tomadas de decisão.
+- **Link para o Notebook:** [Análise Exploratória de Dados - Maratonistas](https://github.com/certeixeira/eda_marathon/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Maratona%2050km%20e%2050%20milhas.ipynb)
+
+### Pesquisa Nacional por Amostra de Domicílios - 2015
+- **Descrição:** Utilizando os conhecimentos adquiridos no curso da Alura de Estatística com Python, realizei uma análise descritiva básica de um conjunto de dados retirados da Pesquisa Nacional por Amostra de Domicílios - 2015 do IBGE. Construí histogramas, calculei e avaliei medidas de tendência central, medidas de separatrizes e dispersão de dados.
+- **Link para o Notebook:** [Análise Descritiva - PNAD 2015](https://github.com/certeixeira/estatistica_python_01/blob/main/An%C3%A1lise_Descritiva_Desafio.ipynb)
+- **Link para o Curso:** [Estatística com Python: frequências e medidas (Alura)](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas?preRequirementFrom=estatistica-probabilidade-e-amostragem)
 
   
 
