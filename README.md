@@ -31,7 +31,7 @@ Estou em busca de oportunidades como Cientista de Dados ou Analista de Dados, an
 - **Link para o Curso:** [Estatística com Python: frequências e medidas (Alura)](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas?preRequirementFrom=estatistica-probabilidade-e-amostragem)
 
 ### Estimativas Estatísticas
-- **Descrição:** Este notebook apresenta uma série de exercícios práticos focados em estimativas estatísticas, abordando conceitos como intervalos de confiança, estimativa pontual e técnicas de amostragem. Cada exercício é acompanhado por explicações claras e exemplos de código Python, demonstrando como aplicar essas técnicas em situações do mundo real. Os exercícios são projetados para ajudar os usuários a aprimorar suas habilidades em estatística e análise de dados usando Python, oferecendo uma abordagem prática e hands-on para aprender e aplicar os princípios fundamentais da estatística.
+- **Descrição:** Este notebook contém exercícios práticos relacionados a estimativas estatísticas, incluindo técnicas de intervalo de confiança, estimativa pontual e técnicas de amostragem. Os exemplos são acompanhados de explicações detalhadas e código Python para ilustrar como essas técnicas podem ser implementadas e aplicadas em diferentes cenários.
 - **Link para o Notebook:**  [Exercícios de Estimativas Estatísticas](https://github.com/certeixeira/Statistics-with-Python-Probability-and-Sampling/blob/main/exerc%C3%ADcios_estimativas.ipynb)
   
 # Experiência Profissional
