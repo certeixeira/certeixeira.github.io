@@ -30,8 +30,10 @@ Estou em busca de oportunidades como Cientista de Dados ou Analista de Dados, an
 - **Link para o Notebook:** [Análise Descritiva - PNAD 2015](https://github.com/certeixeira/estatistica_python_01/blob/main/An%C3%A1lise_Descritiva_Desafio.ipynb)
 - **Link para o Curso:** [Estatística com Python: frequências e medidas (Alura)](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas?preRequirementFrom=estatistica-probabilidade-e-amostragem)
 
+### Estimativas Estatísticas
+- **Descrição:** Este notebook apresenta uma série de exercícios práticos focados em estimativas estatísticas, abordando conceitos como intervalos de confiança, estimativa pontual e técnicas de amostragem. Cada exercício é acompanhado por explicações claras e exemplos de código Python, demonstrando como aplicar essas técnicas em situações do mundo real. Os exercícios são projetados para ajudar os usuários a aprimorar suas habilidades em estatística e análise de dados usando Python, oferecendo uma abordagem prática e hands-on para aprender e aplicar os princípios fundamentais da estatística.
+- **Link para o Notebook:**  [Exercícios de Estimativas Estatísticas](https://github.com/certeixeira/Statistics-with-Python-Probability-and-Sampling/blob/main/exerc%C3%ADcios_estimativas.ipynb)
   
-
 # Experiência Profissional
 
 ## Delivery Direto (Locaweb) / Suporte Técnico N2
