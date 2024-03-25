@@ -77,7 +77,7 @@ Curso técnico em Gestão da Tecnologia da Informação, destacando o gerenciame
 
 # Pós-graduação em Ciência de Dados
 
-**Período:** Maio de 2023 – Previsão de Término Fevereiro de 2024
+**Período:** Maio de 2023 – Março de 2024
 
 Formação especializada em análise e interpretação de dados, proporcionando habilidades avançadas em diversas áreas, incluindo:
 
