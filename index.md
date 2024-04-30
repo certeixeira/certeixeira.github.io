@@ -1,6 +1,6 @@
 ---
-layout:page
-title: "Sobre mim:"
+title: "Sobre mim"
+layout: page
 ---
 
 [Linkedin](https://www.linkedin.com/in/carlos-teixeira-582790154/)
