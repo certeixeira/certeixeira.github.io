@@ -1,4 +1,7 @@
-# Data Scientist
+---
+layout:page
+title: "Sobre mim:"
+---
 
 [Linkedin](https://www.linkedin.com/in/carlos-teixeira-582790154/)
 
