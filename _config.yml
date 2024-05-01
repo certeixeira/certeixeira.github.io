@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "portifolio.html", title:"Portifólio"}
   - {file: "README.md"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/carlos-teixeira-582790154/"}
+  - {title: "Linkedin", icon: linkedin, url: "https://www.linkedin.com/in/carlos-teixeira-582790154/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:certeixeira@outlook.com"}
