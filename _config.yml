@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "about_me.mr", title:"Sobre mim"}
+  - {file: "about_me.md", title:"Sobre mim"}
   - {file: "README.md"}
   - {title: "Linkedin", icon: linkedin, url: "https://www.linkedin.com/in/carlos-teixeira-582790154/"}
 
