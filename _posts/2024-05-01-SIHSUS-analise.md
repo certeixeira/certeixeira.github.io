@@ -1,4 +1,4 @@
-![image](https://github.com/certeixeira/certeixeira.github.io/assets/82918016/0d56b63a-4d4b-4e70-873d-13f7fd410a57)---
+---
 title:  "ANÁLISE DOS REGISTROS DO SIHSUS NO PRIMEIRO SEMESTRE DE 2023"
 mathjax: true
 layout: post
