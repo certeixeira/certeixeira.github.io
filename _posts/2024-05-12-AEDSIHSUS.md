@@ -22,35 +22,36 @@ sem considerar dados regionais.
 Vamos analisar os dados de internação do SIHSUS observando todos os 26 estados do brasil mais o Distrito federal, e a princípio criei uma tabela de frequência
 Nessa tabela o total representa a frequência absoluta e o percentual por estado representa a frequência relativa:
 
-|             Estado            |  Total  | Percentual por Estado |
-|------------------------------|---------|-----------------------|
-|          São Paulo            | 1306688 |         20.51         |
-|       Minas Gerais            |  691092 |         10.85         |
-|             Paraná            |  459871 |          7.22         |
-|              Bahia            |  428081 |          6.72         |
-|     Rio de Janeiro            |  420343 |          6.6          |
-|  Rio Grande do Sul            |  386622 |          6.07         |
-|         Pernambuco            |  294111 |          4.62         |
-|     Santa Catarina            |  284380 |          4.46         |
-|              Ceará            |  270166 |          4.24         |
-|               Pará            |  235014 |          3.69         |
-|           Maranhão            |  214597 |          3.37         |
-|              Goiás            |  196010 |          3.08         |
-|     Espírito Santo            |  138013 |          2.17         |
-|   Distrito Federal            |  116494 |          1.83         |
-|            Paraíba            |  107263 |          1.68         |
-|              Piauí            |  106609 |          1.67         |
-|        Mato Grosso            |  105381 |          1.65         |
-| Mato Grosso do Sul            |  103591 |          1.63         |
-|           Amazonas            |  101390 |          1.59         |
-| Rio Grande do Norte          |   97116 |          1.52         |
-|            Alagoas            |   77898 |          1.22         |
-|           Rondônia            |   59546 |          0.93         |
-|            Sergipe            |   55804 |          0.88         |
-|          Tocantins            |   32315 |          0.51         |
-|               Acre            |   30447 |          0.48         |
-|              Amapá            |   26850 |          0.42         |
-|            Roraima            |   24489 |          0.38         |
+|             Estado            |  Total  | Percentual por Estado (%) |
+|------------------------------|---------|---------------------------|
+|          São Paulo            | 1306688 |           20.51%           |
+|       Minas Gerais            |  691092 |           10.85%           |
+|             Paraná            |  459871 |            7.22%           |
+|              Bahia            |  428081 |            6.72%           |
+|     Rio de Janeiro            |  420343 |            6.6%            |
+|  Rio Grande do Sul            |  386622 |            6.07%           |
+|         Pernambuco            |  294111 |            4.62%           |
+|     Santa Catarina            |  284380 |            4.46%           |
+|              Ceará            |  270166 |            4.24%           |
+|               Pará            |  235014 |            3.69%           |
+|           Maranhão            |  214597 |            3.37%           |
+|              Goiás            |  196010 |            3.08%           |
+|     Espírito Santo            |  138013 |            2.17%           |
+|   Distrito Federal            |  116494 |            1.83%           |
+|            Paraíba            |  107263 |            1.68%           |
+|              Piauí            |  106609 |            1.67%           |
+|        Mato Grosso            |  105381 |            1.65%           |
+| Mato Grosso do Sul            |  103591 |            1.63%           |
+|           Amazonas            |  101390 |            1.59%           |
+| Rio Grande do Norte          |   97116 |            1.52%           |
+|            Alagoas            |   77898 |            1.22%           |
+|           Rondônia            |   59546 |            0.93%           |
+|            Sergipe            |   55804 |            0.88%           |
+|          Tocantins            |   32315 |            0.51%           |
+|               Acre            |   30447 |            0.48%           |
+|              Amapá            |   26850 |            0.42%           |
+|            Roraima            |   24489 |            0.38%           |
+
 
 
 
