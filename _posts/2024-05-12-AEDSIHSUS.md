@@ -154,4 +154,3 @@ Ao finalizar nossa análise dos dados do SIHSUS, é evidente que existem desafio
 
 É fundamental que continuemos buscando soluções para melhorar o acesso aos cuidados de saúde e promover a prevenção de doenças. Isso requer um esforço coletivo, envolvendo tanto ações individuais quanto políticas públicas voltadas para o bem-estar da população.
 
-Projeto em andamento...
